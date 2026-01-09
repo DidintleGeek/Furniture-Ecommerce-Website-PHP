@@ -18,3 +18,6 @@ Update database connection in config.php (username, password, database name).
 Open browser and go to: http://localhost/website2/
 
 Screenshots are provided below in case you cannot run it locally.
+
+![Homepage](Screenshots/homepage.png)
+
