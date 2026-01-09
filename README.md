@@ -35,8 +35,6 @@ Screenshots are provided below in case you cannot run it locally.
 
 ![Reviews Page](Screenshots/reviews-page.png)
 
-![Orders Page](Screenshots/orders-page.png)
-
 ![Payment Page](Screenshots/payment-page.png)
 
 ![Billing Page](Screenshots/billing-page.png)
@@ -44,3 +42,5 @@ Screenshots are provided below in case you cannot run it locally.
 ![Shipping Page](Screenshots/shipping-page.png)
 
 ![Analytics Page](Screenshots/analytics-page.png)
+
+![Orders Page](Screenshots/orders-page.png)
