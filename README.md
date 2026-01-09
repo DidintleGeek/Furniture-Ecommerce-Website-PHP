@@ -19,5 +19,28 @@ Open browser and go to: http://localhost/website2/
 
 Screenshots are provided below in case you cannot run it locally.
 
-![Homepage](Screenshots/homepage.png)
+![Registration Page](Screenshots/registration-page.png)
 
+![Login Page](Screenshots/login-page.png)
+
+![Homepage](Screenshots/home-page.png)
+
+![About Page](Screenshots/about-page.png)
+
+![Bed Page](Screenshots/bed-page.png)
+
+![Couches Page](Screenshots/couches-page.png)
+
+![Patio Page](Screenshots/patio-page.png)
+
+![Reviews Page](Screenshots/reviews-page.png)
+
+![Orders Page](Screenshots/orders-page.png)
+
+![Payment Page](Screenshots/payment-page.png)
+
+![Billing Page](Screenshots/billing-page.png)
+
+![Shipping Page](Screenshots/shipping-page.png)
+
+![Analytics Page](Screenshots/analytics-page.png)
